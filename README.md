@@ -8,8 +8,8 @@
   <a href="https://www.linkedin.com/in/dogukan-kosan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Doğukan%20Koşan-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:dogukan@example.com">
-    <img src="https://img.shields.io/badge/Eposta-dogukan@example.com-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:admin@dogukankosan.com.tr">
+    <img src="https://img.shields.io/badge/Eposta-admin@dogukankosan.com.tr-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
