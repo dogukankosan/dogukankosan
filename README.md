@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Doğukan Koşan</h1>
-<h3 align="center">ERP, Web API ve veri yönetimi alanında uzman bir yazılım geliştirici</h3>
+<h3 align="center">ERP, Web API ve veri yönetimi alanında bir yazılım geliştirici</h3>
 
 <p align="center">
   <a href="https://dogukankosan.com.tr/">
@@ -17,9 +17,7 @@
 
 ### 🚀 Hakkımda
 
-- 🔧 ERP sistemlerine KEP, e-imza, bordro gibi modüller entegre ediyorum  
 - 🧠 C#, MSSQL, SQLite, ASP.NET Core Web API, DevExpress, Power BI gibi teknolojilerle çalışıyorum  
-- 🧩 Hukuki geçerliliği olan dijital iş akışları geliştiriyorum  
 - 🌐 Web teknolojileri: HTML, CSS, JavaScript  
 - 📊 Veri analizi ve raporlama: Power BI, SQL Server  
 - 🧪 Gerçek dünya senaryolarına uygun, sürdürülebilir ve edge-case’lere dayanıklı yazılım mimarileri geliştiriyorum
@@ -84,4 +82,3 @@
 
 ---
 
-> “Gerçek dünya iş süreçlerine uygun, sürdürülebilir ve hukuki geçerliliği olan yazılım çözümleri geliştiriyorum.”
