@@ -61,16 +61,9 @@
 </p>
 
 <p align="center">
- <!-- Flat-square stil -->
-<img src="https://komarev.com/ghpvc/?username=dogukankosan&label=Ziyaretçi+Sayısı&color=blue&style=flat-square" />
-
-<!-- Plastik stil -->
-<img src="https://komarev.com/ghpvc/?username=dogukankosan&label=Ziyaretçi+Sayısı&color=blue&style=plastic" />
-
-<!-- For-the-badge stil -->
-<img src="https://komarev.com/ghpvc/?username=dogukankosan&label=Ziyaretçi+Sayısı&color=blue&style=for-the-badge" />
-
+  <img src="https://komarev.com/ghpvc/?username=dogukankosan&label=Ziyaretçi+Sayısı&color=blue&style=flat" alt="Ziyaretçi Sayısı" />
 </p>
+
 
 ---
 
