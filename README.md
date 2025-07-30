@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Doğukan Koşan</h1>
-<h3 align="center">ERP, Web API ve veri yönetimi alanında bir yazılım geliştirici</h3>
+<h3 align="center">ERP, C# ve veri yönetimi alanında bir yazılım geliştirici</h3>
 
 <p align="center">
   <a href="https://dogukankosan.com.tr/">
