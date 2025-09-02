@@ -21,7 +21,7 @@
 - 🌐 Web teknolojileri: HTML, CSS, JavaScript  
 - 📊 Veri analizi ve raporlama: Power BI, SQL Server, Excel  
 - ⚡ ERP sistemlerinde **SQL optimizasyonu**, **Excel-VBA otomasyonları** ve kurumsal raporlama çözümleri üretiyorum  
-- 🤖 AI entegrasyonları ve makine öğrenmesi tabanlı yazılım çözümleri geliştiriyorum  
+- 🤖 AI entegrasyonları yazılım çözümleri geliştiriyorum.
 - 🧪 Gerçek dünya senaryolarına uygun, sürdürülebilir ve edge-case’lere dayanıklı yazılım mimarileri oluşturuyorum  
 
 ---
