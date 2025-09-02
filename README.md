@@ -83,7 +83,7 @@
 - 🔗 [Veritabani_Otomatik_Yedekleme](https://github.com/dogukankosan/Veritabani_Otomatik_Yedekleme) – SQL Server yedekleme otomasyonu  
 - 🔗 [Logo_J-Platform_Rest_Service](https://github.com/dogukankosan/Logo_J-Platform_Rest_Service) – ERP REST servis entegrasyonu  
 - 🔗 [MyWebSite](https://github.com/dogukankosan/MyWebSite) – Kişisel portfolyo sitesi  
-- 🔗 [HotelApiProject](https://github.com/dogukankosan/HotelApiProject) – Otel rezervasyon sistemi  
+- 🔗 [Whatsapp Entegrasyon](https://github.com/dogukankosan/LogoWhatsappEntegrasyon) – Logo Whatsapp Entegrasyon 
 
 ---
 
