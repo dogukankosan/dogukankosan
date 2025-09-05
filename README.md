@@ -2,14 +2,14 @@
 <h3 align="center">ERP, C#, Web API, AI ve veri yönetimi alanında bir yazılım geliştirici</h3>
 
 <p align="center">
-  <a href="https://dogukankosan.com.tr/">
-    <img src="https://img.shields.io/badge/Web%20Site-dogukankosan.com.tr-blue?style=for-the-badge&logo=google-chrome" />
+  <a href="https://dogukankosan.com/">
+    <img src="https://img.shields.io/badge/Web%20Site-dogukankosan.com-blue?style=for-the-badge&logo=google-chrome" />
   </a>
   <a href="https://www.linkedin.com/in/dogukan-kosan/">
     <img src="https://img.shields.io/badge/LinkedIn-Doğukan%20Koşan-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:admin@dogukankosan.com.tr">
-    <img src="https://img.shields.io/badge/Eposta-admin@dogukankosan.com.tr-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:admin@dogukankosan.com">
+    <img src="https://img.shields.io/badge/Eposta-admin@dogukankosan.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
@@ -89,6 +89,6 @@
 
 ### 💬 İletişim
 
-📫 Bana ulaşmak için: [dogukankosan.com.tr](https://dogukankosan.com.tr/) • [LinkedIn](https://www.linkedin.com/in/dogukan-kosan/)
+📫 Bana ulaşmak için: [dogukankosan.com](https://dogukankosan.com/) • [LinkedIn](https://www.linkedin.com/in/dogukan-kosan/)
 
 ---
